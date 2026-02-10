@@ -1,4 +1,4 @@
-The following is a sample project README file that was created using a template. Select each section of the document for more information.
+The following is a sample project README file that was created using a template. Below are the sections to be included along with title
 
 
 Project Title
